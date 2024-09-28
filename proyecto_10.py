@@ -328,7 +328,7 @@ Para este paso:
 
 Se utilizará el mejor modelo (con submuestreo) y se evaluará su rendimiento en el conjunto de prueba.
 Se validará que el F1 Score supere el umbral de 0.59 para cumplir con los requisitos del proyecto.
-Se realizará la comparación del F1 Score con el AUC-ROC obtenido en la prueba fina
+Se realizará la comparación del F1 Score con el AUC-ROC obtenido en la prueba final
 '''
 
 # Paso 7 Realizar la prueba final
